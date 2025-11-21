@@ -11,6 +11,7 @@ i=1
 
 for i in range n:#loop for number of rows
    for j in range i:#loop for colomns
-      print(j,"   ")
+      print(j,end="  ")
+   print()
      
       
